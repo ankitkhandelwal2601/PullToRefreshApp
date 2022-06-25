@@ -1,3 +1,2 @@
 # PullToRefreshApp
-
-<img width="4878" alt="ScreenShot" src="https://user-images.githubusercontent.com/108080130/175780138-05a48185-d449-48d1-a07d-1a02b821a889.png">
+<img width="4878" alt="ScreenShot-min" src="https://user-images.githubusercontent.com/108080130/175780352-d5d85035-ae29-46b7-ba17-fae04903b3ef.png">
